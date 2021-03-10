@@ -47,7 +47,7 @@ You will need *regular access to a computer or laptop* for this class. You will 
 |  |  | UNIT 1: QUEER REMIX |  |  |
 | Week 3 | Queer Interpretations, Erasure | Read Bo Ruberg's "'Loving Father, Caring Husband, Secret Octopus' - Queer Embodiment and Passing in *Octodad*"  | Read selections from Chase Berggrun's RED (PDF) (Chapters I-III and XII-XIX) (Don't worry, they're very short). | Create: Share a short reflection and post an erasure of your own. |
 | Week 4 | Queerbaiting & Reclaiming, Working with Images | Read ["Between text, paratext, and context: Queerbaiting and the contemporary media landscape"](https://journal.transformativeworks.org/index.php/twc/article/view/917) in *Transformative Works and Culture*  | Read ["Queer video remix and LGBTQ online communities"](https://journal.transformativeworks.org/index.php/twc/article/view/395) in *Transformative Works and Culture*  | Create: Submit a short plan for your Remix Project, including your goals for what you hope it will accomplish. |
-| Week 5 | Hacking Structures, Breaking Rules, Working with Video | Read "Queer Gaming: Gaming, Hacking, and Going Turbo" by Jack Halberstam from *Queer Game Studies* (PDF) | Play Porpentine Charity Heartscape's games "Foldscape" (https://porpentine.itch.io/foldscape) and | Create: Share a progress snapshot of your Remix Project in action. How's it coming? |
+| Week 5 | Hacking Structures, Breaking Rules, Working with Video | Read "Queer Gaming: Gaming, Hacking, and Going Turbo" by Jack Halberstam from *Queer Game Studies* (PDF) | Play Porpentine Charity Heartscape's games ["Foldscape"](https://porpentine.itch.io/foldscape) and | Create: Share a progress snapshot of your Remix Project in action. How's it coming? |
 | Week 6 | **Remix Project Week!** | Bring to class one example of a "reclaiming": Fiction, art, image, video, hashtag-- something that remakes the original in a subversive way. | Bring to class a working prototype of your Remix Project to share with your teams.  | **REMIX PROJECT** DUE BY 11:59PM! Good luck! :)  |
 
 ## Evaluation and Grading (How This Works)
@@ -73,7 +73,7 @@ The **Final Reflective Portfolio** will include revisions of your other projects
 
 Late work is accepted as long as it submitted within 1 week of the original deadline, or with instructor approval. The Final Reflective Portfolio, however, must be submitted on time.
 
-### Inclusive Learning Statement 
+### Inclusive Learning Statement
 
 No two people learn exactly the same way. If you find that the materials are difficult for you to absorb, don’t assume right away that you don’t understand the material! Perhaps you prefer to process information through speaking or listening, but all I am providing are written handouts, making it difficult for you to process. If there are aspects of the design, instruction, and/or experiences within this course that result in barriers to your inclusion or accurate assessment of achievement, please notify me as soon as possible.
 
@@ -83,16 +83,15 @@ I do not require documentation for accessibility in my classroom. If you have le
 
 ### Collaboration (We're In this Together)
 
-> “I want my group mates to attend my funeral, so that they can let me down one last time.” 
+> “I want my group mates to attend my funeral, so that they can let me down one last time.”
 
 This class will involve a significant amount of group-work (and group-play!) as the semester unfolds. You will be sharing your work, ideas, projects, gossip, etc.—and learning to work in a community is a crucial part of the media world. For this class, you and several other students will be grouped into teams. Each of you will have a role in this team, and you’ll often work on assignments, projects, and workshops together.
 
 In the event of any, ah, *DRAMA* amongst team members, let me know about the *DRAMA*, and I will sit y’all down for a A Completely Nonthreatening Resolution Meeting™. During our Completely Nonthreatening Resolution Meeting™ and we will write up a Group Contract together that clarifies expectations amongst group members (and specifies consequences). This will be decided by the team members, and then signed into syllabus law. I will then enforce the contract your team has established.
 
-
 ## Course Policies
 
-#### Academic Integrity
+### Academic Integrity
 
 Students should familiarize themselves with UCF’s Rules of Conduct at <https://scai.sdes.ucf.edu/student-rules-of-conduct/>. According to Section 1, “Academic Misconduct,” students are prohibited from engaging in
 
@@ -118,6 +117,7 @@ Let’s avoid all of this by demonstrating values of honesty, trust, and integri
 The University of Central Florida is committed to providing access and inclusion for all persons with disabilities. Students with disabilities who need access to course content due to course design limitations should contact the professor as soon as possible. Students should also connect with Student Accessibility Services (SAS) <http://sas.sdes.ucf.edu/> (Ferrell Commons 185, sas@ucf.edu, phone 407-823-2371). For students connected with SAS, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential course access and accommodations that might be necessary and reasonable. Determining reasonable access and accommodations requires consideration of the course design, course learning objectives and the individual academic and course barriers experienced by the student. Further conversation with SAS, faculty and the student may be warranted to ensure an accessible course experience.
 
 #### Campus Safety Statement
+
 Emergencies on campus are rare, but if one should arise during class, everyone needs to work together. Students should be aware of their surroundings and familiar with some basic safety and security concepts.
 
 - In case of an emergency, dial 911 for assistance.
@@ -141,13 +141,13 @@ Though most emergency situations are primarily relevant to courses that meet in 
 
 **Religious Observances**: Students must notify their instructor in advance if they intend to miss class for a religious observance. For more information, see the UCF policy at <http://regulations.ucf.edu/chapter5/documents/5.020ReligiousObservancesFINALJan19.pdf>.
 
-**University-Wide Face Covering Policy for Common Spaces and Face-to-Face Classes**: To protect members of our community, everyone is required to wear a facial covering inside all common spaces including classrooms (https://policies.ucf.edu/documents/PolicyEmergencyCOVIDReturnPolicy.pdf). Students who choose not to wear facial coverings will be asked to leave the classroom by the instructor. If they refuse to leave the classroom or put on a facial covering, they may be considered disruptive (please see the Golden Rule for student behavior expectations). Faculty have the right to cancel class if the safety and well-being of class members are in jeopardy. Students will be responsible for the material that would have been covered in class as provided by the instructor.
+**University-Wide Face Covering Policy for Common Spaces and Face-to-Face Classes**: To protect members of our community, everyone is required to wear a facial covering inside all common spaces including classrooms <https://policies.ucf.edu/documents/PolicyEmergencyCOVIDReturnPolicy.pdf>. Students who choose not to wear facial coverings will be asked to leave the classroom by the instructor. If they refuse to leave the classroom or put on a facial covering, they may be considered disruptive (please see the Golden Rule for student behavior expectations). Faculty have the right to cancel class if the safety and well-being of class members are in jeopardy. Students will be responsible for the material that would have been covered in class as provided by the instructor.
 
 **Notifications in Case of Changes to Course Modality**: Depending on the course of the pandemic during the semester, the university may make changes to the way classes are offered. If that happens, please look for announcements or messages in Webcourses@UCF or Knights email about changes specific to this course.
 
 **COVID-19 and Illness Notification**: Students who believe they may have a COVID-19 diagnosis should contact UCF Student Health Services (407-823-2509) so proper contact tracing procedures can take place.
 
-Students should not come to campus if they are ill, are experiencing any symptoms of COVID-19, have tested positive for COVID, or if anyone living in their residence has tested positive or is sick with COVID-19 symptoms. CDC guidance for COVID-19 symptoms is located here: (https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)
+Students should not come to campus if they are ill, are experiencing any symptoms of COVID-19, have tested positive for COVID, or if anyone living in their residence has tested positive or is sick with COVID-19 symptoms. CDC guidance for COVID-19 symptoms is located here: <https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html>
 
 Students should contact their instructor(s) as soon as possible if they miss class for any illness reason to discuss reasonable adjustments that might need to be made. When possible, students should contact their instructor(s) before missing class.
 
