@@ -43,9 +43,7 @@ You will need *regular access to a computer or laptop* for this class. You will 
 | Week | This week, we're tackling... | Explore (Due Classtime Tuesday) | Encounter (Due Classtime Thurdsay) | Create (Due 11:59pm Sunday) |
 |-|-|-|-|-|
 | Week 1 | Syllabus, Ground "Rules," What Is "Queer Media"? | Check out the syllabus! :) | Check out the syllabus! :) | Introduce yourself on the class forum. |
-| Week 2 | Teamwork, Mashups, Subversion 101. | Read Eve Sedgewick's "Introduction: Axiomatic" from *Epistemology of the Closet* | Watch [Paris is Burning](https://www.youtube.com/watch?v=9LUH8sRwzBs)
-Watch Season 1 Episode 1 of Pose (available on Netflix) 
- | Create: Connect with your new team members, and submit a team name and mashup-image! |
+| Week 2 | Teamwork, Mashups, Subversion 101. | Read Eve Sedgewick's "Introduction: Axiomatic" from *Epistemology of the Closet* | Watch [Paris is Burning](https://www.youtube.com/watch?v=9LUH8sRwzBs) <br /> Watch Season 1 Episode 1 of Pose (available on Netflix) | **Create:** Connect with your new team members, and submit a team name and mashup-image! |
 |  |  | UNIT 1: QUEER REMIX |  |  |
 | Week 3 | Queer Interpretations, Erasure | Read Bo Ruberg's "'Loving Father, Caring Husband, Secret Octopus' - Queer Embodiment and Passing in *Octodad*"  | Read selections from Chase Berggrun's RED (PDF) (Chapters I-III and XII-XIX) (Don't worry, they're very short). | Create: Share a short reflection and post an erasure of your own. |
 | Week 4 | Queerbaiting & Reclaiming, Working with Images | Read "Between text, paratext, and context: Queerbaiting and the contemporary media landscape" in [*Transformative Works and Culture*](https://journal.transformativeworks.org/index.php/twc/article/view/917) | Read "Queer video remix and LGBTQ online communities in" [*Transformative Works and Culture*](https://journal.transformativeworks.org/index.php/twc/article/view/395) | Create: Submit a short plan for your Remix Project, including your goals for what you hope it will accomplish. |
