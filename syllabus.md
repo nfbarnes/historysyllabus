@@ -23,7 +23,7 @@
     - [Incomplete Grades and Late Work](#incomplete-grades-and-late-work)
   - [Collaboration (We're In this Together)](#collaboration-were-in-this-together)
   - [What Can I Make My Projects About? (If you're worried, look here!)](#what-can-i-make-my-projects-about-if-youre-worried-look-here)
-  - [Content Warnings, “Offensive Writing,” and the Like (What to do!)](#content-warnings-offensive-writing-and-the-like-what-to-do)
+  - [Content Warnings (What to do!)](#content-warnings-what-to-do)
   - [Permissions and Privacy (What's Yours is Yours!)](#permissions-and-privacy-whats-yours-is-yours)
   - [Course Policies](#course-policies)
     - [UCF’s Course Accessibility Statement](#ucfs-course-accessibility-statement)
@@ -159,7 +159,7 @@ If you are making stuff about other people who are not in this class, but who ar
 
 If you have any concerns, please don’t hesitate to bring it up in class or reach out to me.
 
-## Content Warnings, “Offensive Writing,” and the Like (What to do!)
+## Content Warnings (What to do!)
 
 Media projects are inherently personal endeavors. This is an excellent and necessary thing; it also spawns some ethical difficulties unique to the field, many of which will rear their heads during the course of this semester.
 
