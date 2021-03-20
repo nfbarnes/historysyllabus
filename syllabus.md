@@ -3,17 +3,51 @@
 
 ![Queer Media Studies! Syllabus by: Lauren, Rache, & PS](https://github.com/rouselaurenc/historysyllabus/blob/main/SyllabusBanner.png?raw=true  "Course Banner")
 
-## DIG30XX
+| DIG 30XX: Queer Media Studies |  |  |  |
+|-|-|-|-|
+| Instructors: | Lauren Rouse, Rachel Marks, PS Berge | Section Number: | XXXX |
+| Office: | Zoom | Credit Hours: | 3 |
+| Email: | N/A | Meeting Days | T, TH |
+| Phone: | N/A | Class Location: | N/A |
+| Office Hours | Online | Class Meeting Hours | 1-2:30 PM |
 
-### Instructor: Rachel, Lauren, & PS
+<!-- TOC -->
+
+- [Queer Media Studies](#queer-media-studies)
+  - [Course Description (What This Is)](#course-description-what-this-is)
+  - [Student Learning Outcomes (What We'll Learn)](#student-learning-outcomes-what-well-learn)
+  - [Course Materials and Texts (What You'll Need)](#course-materials-and-texts-what-youll-need)
+  - [Course Outline (What We're Getting Up To)](#course-outline-what-were-getting-up-to)
+  - [Points and Evaluation (How This Works)](#points-and-evaluation-how-this-works)
+    - [Grade Distribution](#grade-distribution)
+    - [Incomplete Grades and Late Work](#incomplete-grades-and-late-work)
+  - [Collaboration (We're In this Together)](#collaboration-were-in-this-together)
+  - [What Can I Make My Projects About? (If you're worried, look here!)](#what-can-i-make-my-projects-about-if-youre-worried-look-here)
+  - [Content Warnings, “Offensive Writing,” and the Like (What to do!)](#content-warnings-offensive-writing-and-the-like-what-to-do)
+  - [Permissions and Privacy (What's Yours is Yours!)](#permissions-and-privacy-whats-yours-is-yours)
+  - [Course Policies](#course-policies)
+    - [UCF’s Course Accessibility Statement](#ucfs-course-accessibility-statement)
+      - [My Inclusive Learning Statement](#my-inclusive-learning-statement)
+    - [Laptops, Phones, Cyborgs, Technology in the Classroom (The Tech Policy!)](#laptops-phones-cyborgs-technology-in-the-classroom-the-tech-policy)
+    - [Academic Integrity](#academic-integrity)
+      - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
+    - [Statement on Harassment and Discrimination](#statement-on-harassment-and-discrimination)
+    - [Land Acknowledgement](#land-acknowledgement)
+    - [Course Accessibility Statement](#course-accessibility-statement)
+    - [Campus Safety Statement](#campus-safety-statement)
+      - [Campus Safety Statement for Students in Online-Only Courses](#campus-safety-statement-for-students-in-online-only-courses)
+
+<!-- /TOC -->
+
+-----
 
 ## Course Description (What This Is)
 
-In this course, we’ll explore queer themes in digital media. We’ll draw from queer theory, such as | EXAMPLES |, and from queer artists and designers. We’ll also create our own media content that explores queer themes of subversion, | challenging heteronormativity, THEME 3 |—culminating in a portfolio of your own work. What makes media “queer” in the first place? | MORE QUESTIONS |. This course should appeal to students who are interested in media or film studies, professional and collaborative media environments, and multimedia creative design. To support these themes, this course is broken into three units:
+In this course, we’ll explore queer themes in digital media. We’ll draw from queer theory, and from queer artists and designers. We’ll also create our own media content that explores queer themes of subversion, challenging heteronormativity, activism and remix—culminating in a portfolio of your own work. What makes media “queer” in the first place? How have queer communities built and used artistic and theoretical frameworks for their media? How are people actively 'queering' traditionally restrictive or harmful media? This course should appeal to students who are interested in media or film studies, professional and collaborative media environments, and multimedia creative design. To support these themes, this course is broken into three units:
 
 - **Queer Remix**: Together, we’ll explore how artists, designers, and makers actively ‘queer’ established content: remixing it to give it new (and subversive) meaning. We’ll talk about queerbaiting, ships, canons and ‘fanons.’ At the end of this unit, you’ll perform a remix of your own!
-- **Queer Narratives**: We will be exploring queer narratives in popular media like film, television, and video games. Through these media texts, we will engage with queer theoretical concepts such as queer representation in media, compulsive heterosexuality, and the homo/heterosexual binary. At the end of the unit, you'll have the opportunity to create your own queer script or film. 
-- **Queer Activism**: In this unit, we'll be following the role that activists have played in creating a more equitable future for LGBTQIA+ and queer people in the United States. You'll also be examining the artifacts left behind by these activists, relating them to current queer equality movements, and creating artifacts for  queer activists and movements from around the world. 
+- **Queer Narratives**: We will be exploring queer narratives in popular media like film, television, and video games. Through these media texts, we will engage with queer theoretical concepts such as queer representation in media, compulsive heterosexuality, and the homo/heterosexual binary. At the end of the unit, you'll have the opportunity to create your own queer script or film.
+- **Queer Activism**: In this unit, we'll be following the role that activists have played in creating a more equitable future for LGBTQIA+ and queer people in the United States. You'll also be examining the artifacts left behind by these activists, relating them to current queer equality movements, and creating artifacts for  queer activists and movements from around the world.
   
 At the end of each unit, you’ll submit a small project of your own media content. These will all culminate in a final unit, where we’ll work on curating our work into a Reflective Portfolio. Each week, we’ll complete three kinds of tasks to get us there:
 
@@ -38,22 +72,24 @@ Many of the texts for this course will be provided for you through our course si
 
 You will need *regular access to a computer or laptop* for this class. You will also need consistent internet access for readings, class materials, etc. If you have trouble getting ahold to any of these materials, or are unable to use a computer for an extended period of time for any reason, please feel free to reach out to me, and I can help get you connected with campus technology resources or work with you to develop an alternative.
 
+-----
+
 ## Course Outline (What We're Getting Up To)
 
 | Week | This week, we're tackling... | Explore (Due Classtime Tuesday) | Encounter (Due Classtime Thurdsay) | Create (Due 11:59pm Sunday) |
 |-|-|-|-|-|
-| Week 1 | Syllabus, Ground "Rules," What Is "Queer Media"? | Check out the syllabus! :) | Check out the syllabus! :) | Introduce yourself on the class forum. |
-| Week 2 | Teamwork, Mashups, Subversion 101. | Read Eve Sedgewick's "Introduction: Axiomatic" from *Epistemology of the Closet* | Watch [Paris is Burning](https://www.youtube.com/watch?v=9LUH8sRwzBs) <br /> Watch Season 1 Episode 1 of Pose (available on Netflix) | **Create:** Connect with your new team members, and submit a team name and mashup-image! |
+| Week 1 | Syllabus, Ground "Rules," What Is "Queer Media"? | None for today. Welcome to class! | Check out the syllabus! :) | Introduce yourself on the class forum. |
+| Week 2 | Teamwork, Mashups, Subversion 101. | Read Eve Sedgewick's "Introduction: Axiomatic" from *Epistemology of the Closet* | Watch [Paris is Burning](https://www.youtube.com/watch?v=9LUH8sRwzBs) <br/> Watch Season 1 Episode 1 of Pose (available on Netflix) | **Discuss:** **LAUREN, help, I haven't seen these, can you put a discussion question or two here pls!** </br>**Create:** Connect with your new team members. You'll be working together over the course of the semester to collaborate and share your work. For now, come up with a team name, and post it and your mashup-image below! |
 |  |  | UNIT 1: QUEER REMIX |  |  |
-| Week 3 | Queer Interpretations, Erasure | Read Bo Ruberg's "'Loving Father, Caring Husband, Secret Octopus' - Queer Embodiment and Passing in *Octodad*"  | Read selections from Chase Berggrun's RED (PDF) (Chapters I-III and XII-XIX) (Don't worry, they're very short). | Create: Share a short reflection and post an erasure of your own. |
-| Week 4 | Queerbaiting & Reclaiming, Working with Images | Read "Between text, paratext, and context: Queerbaiting and the contemporary media landscape" in [*Transformative Works and Culture*](https://journal.transformativeworks.org/index.php/twc/article/view/917) | Read "Queer video remix and LGBTQ online communities in" [*Transformative Works and Culture*](https://journal.transformativeworks.org/index.php/twc/article/view/395) | Create: Submit a short plan for your Remix Project, including your goals for what you hope it will accomplish. |
-| Week 5 | Hacking Structures, Breaking Rules, Working with Video | Read "Queer Gaming: Gaming, Hacking, and Going Turbo" by Jack Halberstam from *Queer Game Studies* (PDF) | Play Porpentine Charity Heartscape's games "Foldscape" <https://porpentine.itch.io/foldscape> and at any one of her other games: <http://slimedaughter.com/games/>. | Create: Share a progress snapshot of your Remix Project in action. How's it coming? |
-| Week 6 | **Remix Project Week!** | Bring to class one example of a "reclaiming": Fiction, art, image, video, hashtags—something that remakes the original in a subversive way. | Bring to class a working prototype of your Remix Project to share with your teams.  | **REMIX PROJECT** DUE BY 11:59PM! Good luck! :)  |
+| Week 3 | Queer Interpretations, Erasure | Read Bo Ruberg's "'Loving Father, Caring Husband, Secret Octopus' - Queer Embodiment and Passing in Octodad" | Read selections from Chase Berggrun's RED (PDF) (Chapters I-III and XII-XIX) (Don't worry, they're very short). | **Discuss**: Both works for this week engage thinking about 'queer readings' of works that aren't expressly queer or may have even contain homophophobic and transphobic themes. Ruberg challenges us by performing a queer reading on a surprising subject, Octodad. And Chase Berggrun performs an erasure in order to build new layers of personal meaning onto a classic text. In a short post, share your thoughts about how these works challenge/change/re(f)use the meanings of the original. Where have you seen these kinds of ‘reimaginings’ before? If you happen to be familiar with either source, what do you think about Ruberg or Berggrun’s response? If you’re not familiar, how do you see them making it their own? </br>**Create**: This week, you’ll be performing an erasure of your own, our first foray into ‘remix.’ The source of the original text can be anything (though you may find it easier if you can copy the words directly—although editing a photo is perfectly fine, and sometimes more powerful). You might look at: birth certificates, leasing documents, postcards, webpages, news articles, text messages, social media profiles. Copy out words (whole words or parts of them) and—keeping them in order—write something that gives it new meaning. If you are working with images, use our Photo Editing Toolkit to help you. In the end, you decide how much you want it to relate to its source material but do tell us what the source for your erasure was. |
+| Week 4 | Queerbaiting & Reclaiming, Working with Images | Read "Between text, paratext, and context: Queerbaiting and the contemporary media landscape" in Transformative Works and Culture | Read "Queer video remix and LGBTQ online communities in" Transformative Works and Culture | **Discuss**: This week, we’ll be thinking about our own remix projects. We’ve looked at queerbaiting, and examples of remix, but in the next two weeks we’ll turn to thinking about how we want to ‘hack’ media narratives ourselves.  After reading the remix project assignment sheet, share a brief proposal for your media project. It’s okay if it’s a little open ended at this stage, but be sure to consider: 1) What you want to use as a source for your project. It can be a single source that you’re cutting/dubbing/altering, or it can be a mashup. 2) What ideas are you hoping to challenge/illuminate/transgress/repurpose from the source? 3) What do you want to express through this remix?   </br>**Create**: Using our video toolkit, and the tricks we’ve learned in class, submit your own Video Haiku project. This video should be no more than 30 seconds long, and can either include: 1) a video with new audio dubbed over it. 2) A cut between two separate clips. 3) A short mashup of visual clips over music. Once you’re done, upload your Haiku with a title, and 1-sentence description below. |
+| Week 5 | Hacking Structures, Breaking Rules, Working with Audio/Video | Read "Queer Gaming: Gaming, Hacking, and Going Turbo" by Jack Halberstam from Queer Game Studies (PDF) | Play Porpentine Charity Heartscape's games "Foldscape" <https://porpentine.itch.io/foldscape> and at any one of her other games: <http://slimedaughter.com/games/>. | **Discuss**: This week, we’ve looked at how queer media often subverts conventional structures. With this in mind, think about what kind of structures you’re working with in your Remix project. What kind of expectations will your audience have, given the form? Which of these expectations do you want to break deliberately, and why? Share in a short post how you plan to engage / subvert these structures. </br>**Create**: Share an update of your Remix Project so far. You might include a screenshot, a short snippet, a storyboard, a clip or two, art-in-progress, whatever you have at this point, as well as one or two questions that you’re thinking about moving forward. |
+| Week 6 | Remix Project Week! | Bring to class one example of a "reclaiming": Fiction, art, image, video, hashtags—something that remakes the original in a subversive way. | Bring to class a working prototype of your Remix Project to share with your teams. | REMIX PROJECT DUE BY 11:59PM! Good luck!  |
 |  |  | UNIT 2: QUEER NARRATIVES |  |  |
-| Week 7 | Queer Video Games: the Importance of Queer Representation| Read "Putting the Gay in Games: Cultural Production and GLBT Content in Video Games" by Adrienne Shaw | Play The Fullbright Company's *Gone Home* (available on Steam) | **Discuss:** Critically engage Gone Home’s depiction of a queer narrative by connecting your  impressions of the game with Shaw’s critique of GLBT representation in video games. <br /> **Create:** Select, briefly describe, and analyze your own example of queer representation in popular media (TV, film, or video games). How does the text represent its queer characters, and what are the some affordances and/or drawbacks of how that queer narrative is presented? |
-| Week 8 | Queer Film: Heteronormativity, Masculinity, and Race | Read C.J. Pascoe's *Dude You're a Fag: Masculinity and Sexuality in High School* Chapter 4 (PDF) | Watch Barry Jenkins' *Moonlight* (currently available on Netflix) | **Discuss:** How does Pascoe’s concept of “compulsive heterosexuality” apply to Chiron’s story in Moonlight? What aspects of Chiron’s identity (race, gender, sexuality) are impacted by his adolescent upbringing, and the expectations of masculinity in his community? <br /> **Create:** Submit a short description of the story for your queer film script or short film, including which format you will choose and what impact you hope your film will make. | 
-| Week 9 | Queer Television: Pan/Bisexuality and the Homo/Heterosexual Binary | Read Maria San Filippo's *The B Word* Epilogue and Introduction | Watch Schitt's Creek Season 1 Episode 10 "Honeymoon" and Season 5 Episode 11 "Meet the Parents" (currently available on Netflix) | **Discuss:** In what ways does David’s pansexual identity in Schitt’s Creek “subvert, or ‘unthink’ monosexuality” (San Filippo 18)? In what ways might Patrick’s reluctance to come out be reflective of the monosexual and heterosexual assumptions that San Filippo discusses? <br /> **Create:** Share the first scene of your short film script or footage, and give us a "check-in" on your progress | 
-| Week 10 | Queer Short Film Project Week! | Watch the short film "Listen" available on Vimeo | Bring a rough draft of your script or an early edit of your film | **Create:** Either write a brief script for a short film, or shoot your own video, that tells an original story with queer characters or themes. This narrative should both be personally impactful to you and should engage with the ideas and issues surrounding queer representation in media that we explored in the unit.  **Queer Narrative Project due by 11:59 PM**. You've got this! | 
+| Week 7 | Queer Video Games: the Importance of Queer Representation| Read "Putting the Gay in Games: Cultural Production and GLBT Content in Video Games" by Adrienne Shaw | Play The Fullbright Company's *Gone Home* (available on Steam) | **Discuss:** Critically engage Gone Home’s depiction of a queer narrative by connecting your  impressions of the game with Shaw’s critique of GLBT representation in video games. <br/> **Create:** Select, briefly describe, and analyze your own example of queer representation in popular media (TV, film, or video games). How does the text represent its queer characters, and what are the some affordances and/or drawbacks of how that queer narrative is presented? |
+| Week 8 | Queer Film: Heteronormativity, Masculinity, and Race | Read C.J. Pascoe's *Dude You're a Fag: Masculinity and Sexuality in High School* Chapter 4 (PDF) | Watch Barry Jenkins' *Moonlight* (currently available on Netflix) | **Discuss:** How does Pascoe’s concept of “compulsive heterosexuality” apply to Chiron’s story in Moonlight? What aspects of Chiron’s identity (race, gender, sexuality) are impacted by his adolescent upbringing, and the expectations of masculinity in his community? <br/> **Create:** Submit a short description of the story for your queer film script or short film, including which format you will choose and what impact you hope your film will make. |
+| Week 9 | Queer Television: Pan/Bisexuality and the Homo/Heterosexual Binary | Read Maria San Filippo's *The B Word* Epilogue and Introduction | Watch Schitt's Creek Season 1 Episode 10 "Honeymoon" and Season 5 Episode 11 "Meet the Parents" (currently available on Netflix) | **Discuss:** In what ways does David’s pansexual identity in Schitt’s Creek “subvert, or ‘unthink’ monosexuality” (San Filippo 18)? In what ways might Patrick’s reluctance to come out be reflective of the monosexual and heterosexual assumptions that San Filippo discusses? <br/> **Create:** Share the first scene of your short film script or footage, and give us a "check-in" on your progress |
+| Week 10 | Queer Short Film Project Week! | Watch the short film "Listen" available on Vimeo | Bring a rough draft of your script or an early edit of your film | **Create:** Either write a brief script for a short film, or shoot your own video, that tells an original story with queer characters or themes. This narrative should both be personally impactful to you and should engage with the ideas and issues surrounding queer representation in media that we explored in the unit.  **Queer Narrative Project due by 11:59 PM**. You've got this! |
 |  |  | UNIT 3: QUEER ACTIVISM |  |  |
 | Week 11 | Beyond the Hetero/Homosexual Binary | Read ["Punks, Bulldaggers, and Welfare Queens: The Radical Potential of Queer Politics?"](https://doi.org/10.1215/10642684-3-4-437) by Cathy J. Cohen and "Captialism and Gay Identity" by John D'Emilio | Watch *Pride* (2014 film); available on Amazon Prime or YouTube | Discuss: Research a queer activist (doesn't have to be a US activist or within the last 100 years). Why did you choose them? What is inspirational about their activism? How has their work persisted to today's queer activism? Create: Make a small bio for the activist (like one you might find on a professional website). |
 | Week 12 | The AIDS Epidemic | Read "Critical Investments: AIDS, Christopher Reeve, and Queer/Disability Studies" by Robert McRuer and "Portraits of People with AIDS" from *Melancholia and Moralism: Essays on AIDS and Queer Politics* by Douglas Crimp | Watch *How to Survive a Plague* (2014 film); available on Amazon and view the [Interactive AIDS Quilt](https://www.aidsmemorial.org/interactive-aids-quilt) | Discuss: Consider the ways in which the COVID-19 pandemic and AIDS were covered by the media; how were these two epidemics treated similarly/differently?  Think about the similarlities and differences in how each has affect the queer community. Then, think about the artifacts that we have left over from the AIDS epidemic; how might the ones from the COVID-19 pandemic be similar? Create: Compose a twitter thread addressing the similarities/differences between the media/social media coverage of the AIDS epidemic and the COVID-19 pandemic. |
@@ -62,8 +98,9 @@ You will need *regular access to a computer or laptop* for this class. You will 
 |Week 15 | Reflective Portfolio| Workshop Day: Bring your 3 unit projects to class, along with some initial ideas for your reflective portfolio. | Showcase: Bring an early draft of your Reflective Portfolio to share with the class, and get some feedback from your peers |
 |Week 16 | Reflective Portfolio Cont.| NO CLASS: Use this week to work on your Reflective Portfolios | NO CLASS: Use this week to work on your Reflective Portfolios | Final project due! |
 
+-----
 
-## Evaluation and Grading (How This Works)
+## Points and Evaluation (How This Works)
 
 This class uses a point-based grading system that is seperate from its system for feedback. This is so that you can comfortably experiment with strategies and ideas in a risk-free environment.
 
@@ -82,31 +119,85 @@ Otherwise, points will be used to determine your final grade according to the fo
 
 Note that you are only expected to *complete 10 of the twelve* Creates, though you can complete all of them for extra credit.
 
-**Remix Project:** [PS]
+**Remix Project (5 points):** The remix project will invite you to take all our musings about hacking, reimagining, and repurposing narratives and structures to make new ones! For this project, you'll become familiar with one of the media toolkits for this course to create: 1) audio remixes (Mashup of songs and sounds, a dubbing, original musical cover, etc.) 2) visual remixes (edited photos, erasures, superimpositions, etc.) 3) video remixes (fancuts, video haikus, mashups, fake trailers, etc.). Your goal for this project is to explore themes you want to express, and get familiar with the digital tools you most want to learn. Your Remix Project should consist of *either*: a small collection of 2-5 smaller works (single image edits, short audio clips, 30 second videos, etc.) or a single, longer work (something involving original art or recording, a longer video or audio remix). There's a lot of freedom here, but you'll be proposing your idea early in the unit, and getting feedback from your peers and me to help shape your explorations.
 
-**Narrative Project:** You will create either a brief script for a short film, or shoot your own video, that tells an original story with queer characters or themes. This narrative should both be personally impactful to you and should engage with the ideas and issues surrounding queer representation in media that we explored in the unit.  
+**Narrative Project (10 points):** You will create either a brief script for a short film, or shoot your own video, that tells an original story with queer characters or themes. This narrative should both be personally impactful to you and should engage with the ideas and issues surrounding queer representation in media that we explored in the unit.  
 
-**Activism Project:** [Lauren]
+**Activism Project (10 points):** [Lauren]
 
-The **Final Reflective Portfolio** will include revisions of your other projects, as well as a critical reflection. This reflection can either be theoretical (a theory about Queer Media) or artistic (exploring your own position or growth as a media artist and designer).
+The **Final Reflective Portfolio (25 points)** will include revisions of your other projects, as well as a critical reflection. This reflection can either be theoretical (a theory about Queer Media) or artistic (exploring your own position or growth as a media artist and designer).
 
-Late work is accepted as long as it submitted within 1 week of the original deadline, or with instructor approval. Any extensions that have been asked for **24 hours** ahead of the deadline of a project or assignment will be granted. The Final Reflective Portfolio, however, must be submitted on time.
+There will be opportunities to earn extra points on the unit projects and final portfolio, for work that goes above and beyond. There is unlikely to be extra credit in additional assignments.
 
-### Collaboration (We're In this Together)
+### Grade Distribution
 
-> “I want my group mates to attend my funeral, so that they can let me down one last time.”
+Point totals will be distributed through Canvas. Final point totals will be calculated according to the above table. Each point is a grade-point percentage (so a final score of 98 will mean a grade total of 98%). Additional feedback will be given in the forms of individualized notes and comments. This feedback is for you to build your portfolio and explore your media theory and practice, and will not be held against your numeric grade.
+
+### Incomplete Grades and Late Work
+
+Late work is accepted as long as it submitted within 1 week of the original deadline, or with instructor approval. Any extensions that have been asked for **24 hours** ahead of the deadline of a project or assignment will be granted. The Final Reflective Portfolio, however, must be submitted on time. Be wary that leaving assignments to run past their deadline can make it harder to stay on course; communicate with me if you are having difficulties meeting the required deadlines.
+
+You will not earn points for assignments that are left unsubmitted at the end of the semester.
+
+## Collaboration (We're In this Together)
+
+> As a wise meme once said: I want my groupmates to attend my funeral, so that they can let me down one last time.
 
 This class will involve a significant amount of group-work (and group-play!) as the semester unfolds. You will be sharing your work, ideas, projects, gossip, etc.—and learning to work in a community is a crucial part of the media world. For this class, you and several other students will be grouped into teams. Each of you will have a role in this team, and you’ll often work on assignments, projects, and workshops together.
 
-In the event of any, ah, *DRAMA* amongst team members, let me know about the *DRAMA*, and I will sit y’all down for a A Completely Nonthreatening Resolution Meeting™. During our Completely Nonthreatening Resolution Meeting™ and we will write up a Group Contract together that clarifies expectations amongst group members (and specifies consequences). This will be decided by the team members, and then signed into syllabus law. I will then enforce the contract your team has established.
+In the event of any difficulty or breakdowns in communication amongst team members, let me know immediately, and I will assist your group a team meeting. During this meeting and we will write up a Group Contract together that clarifies expectations amongst group members (and specifies consequences). This will be decided by the team members, and then signed into syllabus law. I will then enforce the contract your team has established.
+
+## What Can I Make My Projects About? (If you're worried, look here!)
+
+You are encouraged to produce media about anything you want to! There are, however, a few limitations and boundaries I want to establish:
+
+1. I do request that you adhere to the policy on content warnings. (See below.)
+
+2. Please do not, under any circumstances, write about or make references to any other person in this class without their express and documented consent. (That does include me. 😊)
+
+If you are making stuff about other people who are not in this class, but who are (1) real and (2) living, for the sake of this class, you do not need to seek their permission. However, you may choose to anonymize them (different names, initials, etc.), or to fictionalize pertinent identifying details. If you decide to publish the work, however, it is usually appropriate to seek their consent as well. (n.b.: This does not necessarily mean that you are obligated to show those people your work, although depending on the content of your piece, that may also be warranted).
+
+If you have any concerns, please don’t hesitate to bring it up in class or reach out to me.
+
+## Content Warnings, “Offensive Writing,” and the Like (What to do!)
+
+Media projects are inherently personal endeavors. This is an excellent and necessary thing; it also spawns some ethical difficulties unique to the field, many of which will rear their heads during the course of this semester.
+
+We will be reading/viewing things that you may find personally offensive or discomfiting. Sometimes work we are examining for class might make you uncomfortable; sometimes work produced by your classmates might have that same effect. There are some things we’ll be examining that even make me a bit uncomfortable! You are not required to like everything. Far from it. You will learn plenty by hating some of the things in this class. What I ask, however, is that you approach the work respectfully, and with the question of “what can I take away from this? What can I steal and use?”
+
+**Content Warnings on class works**: With that said, every work that I will give or assign you in this class is clearly labelled with content warnings, to specify potentially triggering or disturbing content. You can trust your own feelings about whether or not this will be material you can handle—all I ask is that you be true to yourself, andjust let  me know if you need to excuse yourself from a discussion or activity as a result.
+
+**Content Warnings on your projects:** Some of you may choose to write about things that are difficult, personal, violent, or disturbing. You are allowed to create meida these things! The only rule is that if you are including content that may evoke a potentially traumatic reaction in a viewer (and bear in mind, we cannot know our audience's reactions—we can only guess), that you clearly label this with a content warning at the top of the document or piece.
+
+*Examples of content warnings:*
+• Contains extensive profanity, or racial slurs, etc.
+• Contains violence, body-horror, sexual assault, physical or verbal abuse, suicide, or other triggering experiences.
+• Contains racism, misogyny, ableism, homophobia, etc.
+• Contains horror (and remember some people are easily scared), sexual material, or animal cruelty.
+
+Remember, content warnings are not ‘apologies.’ They are a kindness to your audience, whose personal experiences we cannot anticipate. You don’t want to ruin someone’s day by accidentally bringing up a host of traumas; and this is how we avoid that.
+
+## Permissions and Privacy (What's Yours is Yours!)
+
+Whether you think about it this way or not, over the course of this semester you will be making art. This art belongs to you—not the school, not me, not anyone else. As a result of this, I will often advise you about the best ways to keep your work as private or publicly-available as you want. With that being said: please be aware that if you put work, which you may decide to publish some day in the future, onto a public website, some journals and publishers will consider that “self-publication.”
+
+Over the course of this class, I will provide you guidance on how to keep your content accessible within the dynamics of our class without making it publicaly visible. If you put your content on any other site, or choose not to use our course login, you will be responsible for managing the privacy of your own work.
+
+*As a result, it is expected that you keep your peers’ work off of any public spaces without consulting them first, and take consideration before publicizing your work digitally*. We will discuss this more as the semester goes on.
+
+Finally, you will have total privacy control over the content you make in this course. You can, at any time, revoke or grant viewership permissions. My only request is that you make the required content visible to me, and your group mates (where required). Otherwise, you don’t have to share anything you don’t want to. After the semester is over (and final grades are posted), you will be welcome to remove the site at your leisure.
+
+**Finally, if you make something that you later decide you are uncomfortable sharing with the class or your peers, just come talk to me—we will work it out.**
+
+-----
 
 ## Course Policies
 
 ### UCF’s Course Accessibility Statement
 
-The University of Central Florida is committed to providing access and inclusion for all persons with disabilities. This syllabus is available in alternate formats upon request. Students with disabilities who need specific access in this course, such as accommodations, should contact the professor as soon as possible to discuss various access options. Students may also connect with Student Accessibility Services (Ferrell Commons, 7F, Room 185, sas@ucf.edu, phone (407) 823-2371). Through Student Accessibility Services, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential access and accommodations. 
+The University of Central Florida is committed to providing access and inclusion for all persons with disabilities. This syllabus is available in alternate formats upon request. Students with disabilities who need specific access in this course, such as accommodations, should contact the professor as soon as possible to discuss various access options. Students may also connect with Student Accessibility Services (Ferrell Commons, 7F, Room 185, sas@ucf.edu, phone (407) 823-2371). Through Student Accessibility Services, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential access and accommodations.
 
-**My Inclusive Learning Statement**
+#### My Inclusive Learning Statement
 
 No two people learn exactly the same way. If you find that the materials are difficult for you to absorb, don’t assume right away that you don’t understand the material! Perhaps you prefer to process information through speaking or listening, but all I am providing are written handouts, making it difficult for you to process. If there are aspects of the design, instruction, and/or experiences within this course that result in barriers to your inclusion or accurate assessment of achievement, please notify me as soon as possible.
 
@@ -114,6 +205,11 @@ Disabilities are visible and invisible, documented and undocumented: I do not di
 
 I do not require documentation for accessibility in my classroom. If you have learning needs from me that I'm not meeting, you can come tell me. You may contact SAS without notifying me if you wish; you may also speak with me without contacting SAS at all.
 
+### Laptops, Phones, Cyborgs, Technology in the Classroom (The Tech Policy!)
+
+Given that this is a media course, it will often be necessary that we have access to laptops/internet-capable-technology for composing, viewing materials, and working in groups. The use of electronic devices will be permitted generously.
+
+I do request, however that your phone be put on silent and put away unless it is being used for class purposes. Otherwise, I ask that you generally honor the “3 second rule” (you may quickly check your phone, reply to a quick message and such, but then please return it to your pocket/desk/bag). If there is an emergency and you need to use your phone or be “on-call,” just let me know. Use of laptops in class should be focused on classroom materials and at appropriate times.
 
 ### Academic Integrity
 
@@ -144,7 +240,7 @@ I will not allow any form of harassment, or discrimination based on race, religi
 
 We acknowledge, with respect, that the land we are on today is the traditional and ancestral homelands of the Seminole, Miccosukee, Timucua, and numerous other Native tribes. We also acknowledge the manipulation, coercion, and violence enacted against these nations, including the Treaties of Moultrie Creek, Payne’s Landing, and Pensacola, which now afford us access to the land, water, and air of these Nations’ traditional homelands. We recognize the violent past and dire, ongoing costs to Native Nations and peoples on whose land this university -- now a place of learning and socialization -- was built upon. We recognize the Indigenous peoples as original stewards of this land and all the relatives within it.
 
-We understand that acknolwedgement is not enough and that we, as a course community, as a department, and as an institution, should actively work towards decolonization and the return of Native lands to Native peoples. This acknowledgement acts as a conversation starter, one that needs to be had in this country where so many Native lives have been lost to a inhospitable government and its people, and that only through action, and not just words in fancy statements, will we be able to truly honor the Native people and their land. 
+We understand that acknolwedgement is not enough and that we, as a course community, as a department, and as an institution, should actively work towards decolonization and the return of Native lands to Native peoples. This acknowledgement acts as a conversation starter, one that needs to be had in this country where so many Native lives have been lost to a inhospitable government and its people, and that only through action, and not just words in fancy statements, will we be able to truly honor the Native people and their land.
 
 ### Course Accessibility Statement
 
@@ -186,5 +282,13 @@ Students should not come to campus if they are ill, are experiencing any symptom
 Students should contact their instructor(s) as soon as possible if they miss class for any illness reason to discuss reasonable adjustments that might need to be made. When possible, students should contact their instructor(s) before missing class.
 
 **In Case of Faculty Illness**: If the instructor falls ill during the semester, there may be changes to this course, including having a backup instructor take over the course. Please look for announcements or mail in Webcourses@UCF or Knights email for any alterations to this course.
+
+**Email Policy**: Students may have multiple emails recorded with the university, including “campus email” and “personal email,” and they may be confused about how you will communicate with them. The following is a statement appropriate for distribution to your classes or for inclusion on your syllabus:
+
+In this class our official mode of communication is through email. All communication between student and instructor and between student and student should be respectful and professional. As of 2009, Knightsmail is the only official student email at UCF. Class rosters list Knightsmail addresses rather than external email addresses, and all official class communications will be sent only to the Knightsmail addresses. Students are responsible for checking their Knightsmail accounts regularly. See <www.knightsemail.ucf.edu> for further information.
+
+If you instead use Webcourses to communicate with students by email, here is a sample statement for the syllabus:
+
+In this class our official mode of communication is through email located inside Webcourses. All communication between student and instructor and between student and student should be respectful and professional. It is the student’s responsibility to check the “coursemail” tool frequently. You may also wish to create a Knight’s Email account at <www.knightsemail.ucf.edu> for separate official communication from the university.
 
 **Course Accessibility and Disability COVID-19 Supplemental Statement**: Accommodations may need to be added or adjusted should this course shift from an on-campus to a remote format. Students with disabilities should speak with their instructor and should contact sas@ucf.edu to discuss specific accommodations for this or other courses.
