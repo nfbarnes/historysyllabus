@@ -1,5 +1,5 @@
 
-# Queer Media Studies
+# 1. Queer Media Studies
 
 ![Queer Media Studies! Syllabus by: Lauren, Rache, & PS](https://github.com/rouselaurenc/historysyllabus/blob/main/SyllabusBanner.png?raw=true  "Course Banner")
 
@@ -13,35 +13,38 @@
 
 <!-- TOC -->
 
-- [Queer Media Studies](#queer-media-studies)
-  - [Course Description (What This Is)](#course-description-what-this-is)
-  - [Student Learning Outcomes (What We'll Learn)](#student-learning-outcomes-what-well-learn)
-  - [Course Materials and Texts (What You'll Need)](#course-materials-and-texts-what-youll-need)
-  - [Course Outline (What We're Getting Up To)](#course-outline-what-were-getting-up-to)
-  - [Points and Evaluation (How This Works)](#points-and-evaluation-how-this-works)
-    - [Grade Distribution](#grade-distribution)
-    - [Incomplete Grades and Late Work](#incomplete-grades-and-late-work)
-  - [Collaboration (We're In this Together)](#collaboration-were-in-this-together)
-  - [What Can I Make My Projects About? (If you're worried, look here!)](#what-can-i-make-my-projects-about-if-youre-worried-look-here)
-  - [Content Warnings (What to do!)](#content-warnings-what-to-do)
-  - [Permissions and Privacy (What's Yours is Yours!)](#permissions-and-privacy-whats-yours-is-yours)
-  - [Course Policies](#course-policies)
-    - [UCF’s Course Accessibility Statement](#ucfs-course-accessibility-statement)
-      - [My Inclusive Learning Statement](#my-inclusive-learning-statement)
-    - [Laptops, Phones, Cyborgs, Technology in the Classroom (The Tech Policy!)](#laptops-phones-cyborgs-technology-in-the-classroom-the-tech-policy)
-    - [Academic Integrity](#academic-integrity)
-      - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
-    - [Statement on Harassment and Discrimination](#statement-on-harassment-and-discrimination)
-    - [Land Acknowledgement](#land-acknowledgement)
-    - [Course Accessibility Statement](#course-accessibility-statement)
-    - [Campus Safety Statement](#campus-safety-statement)
-      - [Campus Safety Statement for Students in Online-Only Courses](#campus-safety-statement-for-students-in-online-only-courses)
+- [1. Queer Media Studies](#1-queer-media-studies)
+  - [1.1. Course Description (What This Is)](#11-course-description-what-this-is)
+  - [1.2. Student Learning Outcomes (What We'll Learn)](#12-student-learning-outcomes-what-well-learn)
+  - [1.3. Course Materials and Texts (What You'll Need)](#13-course-materials-and-texts-what-youll-need)
+  - [1.4. Course Outline (What We're Getting Up To)](#14-course-outline-what-were-getting-up-to)
+  - [1.5. Points and Evaluation (How This Works)](#15-points-and-evaluation-how-this-works)
+    - [1.5.1. Grade Distribution](#151-grade-distribution)
+    - [1.5.2. Incomplete Grades and Late Work](#152-incomplete-grades-and-late-work)
+  - [1.2. Collaboration (We're In this Together)](#12-collaboration-were-in-this-together)
+  - [1.3. What Can I Make My Projects About? (If you're worried, look here!)](#13-what-can-i-make-my-projects-about-if-youre-worried-look-here)
+  - [1.4. Content Warnings (Respect yourself and others!)](#14-content-warnings-respect-yourself-and-others)
+  - [1.5. Permissions and Privacy (What's Yours is Yours!)](#15-permissions-and-privacy-whats-yours-is-yours)
+  - [1.6. Course Policies](#16-course-policies)
+    - [1.6.1. UCF’s Course Accessibility Statement](#161-ucfs-course-accessibility-statement)
+      - [1.6.1.1. My Inclusive Learning Statement](#1611-my-inclusive-learning-statement)
+    - [1.5.2. Laptops, Phones, Cyborgs, Technology in the Classroom (The Tech Policy!)](#152-laptops-phones-cyborgs-technology-in-the-classroom-the-tech-policy)
+      - [1.5.2.1. Email](#1521-email)
+      - [1.5.2.2. Open Labs](#1522-open-labs)
+    - [1.5.2. Academic Integrity](#152-academic-integrity)
+      - [1.5.2.1. Responses to Academic Dishonesty, Plagiarism, or Cheating](#1521-responses-to-academic-dishonesty-plagiarism-or-cheating)
+    - [1.5.2. Statement on Harassment and Discrimination](#152-statement-on-harassment-and-discrimination)
+    - [1.5.3. Land Acknowledgement](#153-land-acknowledgement)
+    - [1.5.4. Course Accessibility Statement](#154-course-accessibility-statement)
+    - [1.5.5. Third-Party Software and FERPA](#155-third-party-software-and-ferpa)
+    - [1.5.6. Campus Safety Statement](#156-campus-safety-statement)
+      - [1.5.6.1. Campus Safety Statement for Students in Online-Only Courses](#1561-campus-safety-statement-for-students-in-online-only-courses)
 
 <!-- /TOC -->
 
 -----
 
-## Course Description (What This Is)
+## 1.1. Course Description (What This Is)
 
 In this course, we’ll explore queer themes in digital media. We’ll draw from queer theory, and from queer artists and designers. We’ll also create our own media content that explores queer themes of subversion, challenging heteronormativity, activism and remix—culminating in a portfolio of your own work. What makes media “queer” in the first place? How have queer communities built and used artistic and theoretical frameworks for their media? How are people actively 'queering' traditionally restrictive or harmful media? This course should appeal to students who are interested in media or film studies, professional and collaborative media environments, and multimedia creative design. To support these themes, this course is broken into three units:
 
@@ -55,7 +58,7 @@ At the end of each unit, you’ll submit a small project of your own media conte
 - **Encounters**: In Encounters, we’ll play/watch/read/engage queer media content in-action and try out some of the strategies and practices ourselves.
 - **Creates**: In Creates, you'll share your thoughts as we go, and share pieces of your larger projects in-action.
 
-## Student Learning Outcomes (What We'll Learn)
+## 1.2. Student Learning Outcomes (What We'll Learn)
 
 This course develops a better understanding of artistic expression and creative processes through historical and cultural content, theory, and critical design. By the end of this course, we will...
 
@@ -66,7 +69,7 @@ This course develops a better understanding of artistic expression and creative 
 - **Make Our Own Monsters**: We'll produce creative works of our own inspired by a range of prompts, models, media, and provocations.
 - **Prove Ourselves**: We’ll produce our own, original, portfolios that  demonstrate our creative prowess.
 
-## Course Materials and Texts (What You'll Need)
+## 1.3. Course Materials and Texts (What You'll Need)
 
 Many of the texts for this course will be provided for you through our course site. This will predominantly mean following links, but there will also be PDFs, games, videos, and other materials that you will be viewing.
 
@@ -74,7 +77,7 @@ You will need *regular access to a computer or laptop* for this class. You will 
 
 -----
 
-## Course Outline (What We're Getting Up To)
+## 1.4. Course Outline (What We're Getting Up To)
 
 | Week | This week, we're tackling... | Explore (Due Classtime Tuesday) | Encounter (Due Classtime Thurdsay) | Create (Due 11:59pm Sunday) |
 |-|-|-|-|-|
@@ -100,7 +103,7 @@ You will need *regular access to a computer or laptop* for this class. You will 
 
 -----
 
-## Points and Evaluation (How This Works)
+## 1.5. Points and Evaluation (How This Works)
 
 This class uses a point-based grading system that is seperate from its system for feedback. This is so that you can comfortably experiment with strategies and ideas in a risk-free environment.
 
@@ -123,23 +126,23 @@ Note that you are only expected to *complete 10 of the twelve* Creates, though y
 
 **Narrative Project (10 points):** You will create either a brief script for a short film, or shoot your own video, that tells an original story with queer characters or themes. This narrative should both be personally impactful to you and should engage with the ideas and issues surrounding queer representation in media that we explored in the unit.  
 
-**Activism Project (10 points):** For this project, I want you to consider all of the artifacts that we've viewed, from the documentary films, to the interactive AIDS quilt, to various art and music tributes to LGBTQ+ activism. This project will have you create an artifact on a activist or movement from queer history. These artifacts do not have to be traditional museum like artifacts; do not let that limit you. You can create social media accounts, websites or blogs, art pieces, interactive media pieces, etc. to inform a viewer about the activist or movement that you've chosen. You can engage with movements outside of the United States as well. 
+**Activism Project (10 points):** For this project, I want you to consider all of the artifacts that we've viewed, from the documentary films, to the interactive AIDS quilt, to various art and music tributes to LGBTQ+ activism. This project will have you create an artifact on a activist or movement from queer history. These artifacts do not have to be traditional museum like artifacts; do not let that limit you. You can create social media accounts, websites or blogs, art pieces, interactive media pieces, etc. to inform a viewer about the activist or movement that you've chosen. You can engage with movements outside of the United States as well.
 
 The **Final Reflective Portfolio (25 points)** will include revisions of your other projects, as well as a critical reflection. This reflection can either be theoretical (a theory about Queer Media) or artistic (exploring your own position or growth as a media artist and designer).
 
 There will be opportunities to earn extra points on the unit projects and final portfolio, for work that goes above and beyond. There is unlikely to be extra credit in additional assignments.
 
-### Grade Distribution
+### 1.5.1. Grade Distribution
 
 Point totals will be distributed through Canvas. Final point totals will be calculated according to the above table. Each point is a grade-point percentage (so a final score of 98 will mean a grade total of 98%). Additional feedback will be given in the forms of individualized notes and comments. This feedback is for you to build your portfolio and explore your media theory and practice, and will not be held against your numeric grade.
 
-### Incomplete Grades and Late Work
+### 1.5.2. Incomplete Grades and Late Work
 
 Late work is accepted as long as it submitted within 1 week of the original deadline, or with instructor approval. Any extensions that have been asked for **24 hours** ahead of the deadline of a project or assignment will be granted. The Final Reflective Portfolio, however, must be submitted on time. Be wary that leaving assignments to run past their deadline can make it harder to stay on course; communicate with me if you are having difficulties meeting the required deadlines.
 
 You will not earn points for assignments that are left unsubmitted at the end of the semester.
 
-## Collaboration (We're In this Together)
+## 1.2. Collaboration (We're In this Together)
 
 > As a wise meme once said: I want my groupmates to attend my funeral, so that they can let me down one last time.
 
@@ -147,7 +150,7 @@ This class will involve a significant amount of group-work (and group-play!) as 
 
 In the event of any difficulty or breakdowns in communication amongst team members, let me know immediately, and I will assist your group a team meeting. During this meeting and we will write up a Group Contract together that clarifies expectations amongst group members (and specifies consequences). This will be decided by the team members, and then signed into syllabus law. I will then enforce the contract your team has established.
 
-## What Can I Make My Projects About? (If you're worried, look here!)
+## 1.3. What Can I Make My Projects About? (If you're worried, look here!)
 
 You are encouraged to produce media about anything you want to! There are, however, a few limitations and boundaries I want to establish:
 
@@ -159,7 +162,7 @@ If you are making stuff about other people who are not in this class, but who ar
 
 If you have any concerns, please don’t hesitate to bring it up in class or reach out to me.
 
-## Content Warnings (What to do!)
+## 1.4. Content Warnings (Respect yourself and others!)
 
 Media projects are inherently personal endeavors. This is an excellent and necessary thing; it also spawns some ethical difficulties unique to the field, many of which will rear their heads during the course of this semester.
 
@@ -177,7 +180,7 @@ We will be reading/viewing things that you may find personally offensive or disc
 
 Remember, content warnings are not ‘apologies.’ They are a kindness to your audience, whose personal experiences we cannot anticipate. You don’t want to ruin someone’s day by accidentally bringing up a host of traumas; and this is how we avoid that.
 
-## Permissions and Privacy (What's Yours is Yours!)
+## 1.5. Permissions and Privacy (What's Yours is Yours!)
 
 Whether you think about it this way or not, over the course of this semester you will be making art. This art belongs to you—not the school, not me, not anyone else. As a result of this, I will often advise you about the best ways to keep your work as private or publicly-available as you want. With that being said: please be aware that if you put work, which you may decide to publish some day in the future, onto a public website, some journals and publishers will consider that “self-publication.”
 
@@ -191,13 +194,13 @@ Finally, you will have total privacy control over the content you make in this c
 
 -----
 
-## Course Policies
+## 1.6. Course Policies
 
-### UCF’s Course Accessibility Statement
+### 1.6.1. UCF’s Course Accessibility Statement
 
 The University of Central Florida is committed to providing access and inclusion for all persons with disabilities. This syllabus is available in alternate formats upon request. Students with disabilities who need specific access in this course, such as accommodations, should contact the professor as soon as possible to discuss various access options. Students may also connect with Student Accessibility Services (Ferrell Commons, 7F, Room 185, sas@ucf.edu, phone (407) 823-2371). Through Student Accessibility Services, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential access and accommodations.
 
-#### My Inclusive Learning Statement
+#### 1.6.1.1. My Inclusive Learning Statement
 
 No two people learn exactly the same way. If you find that the materials are difficult for you to absorb, don’t assume right away that you don’t understand the material! Perhaps you prefer to process information through speaking or listening, but all I am providing are written handouts, making it difficult for you to process. If there are aspects of the design, instruction, and/or experiences within this course that result in barriers to your inclusion or accurate assessment of achievement, please notify me as soon as possible.
 
@@ -205,21 +208,21 @@ Disabilities are visible and invisible, documented and undocumented: I do not di
 
 I do not require documentation for accessibility in my classroom. If you have learning needs from me that I'm not meeting, you can come tell me. You may contact SAS without notifying me if you wish; you may also speak with me without contacting SAS at all.
 
-### Laptops, Phones, Cyborgs, Technology in the Classroom (The Tech Policy!)
+### 1.5.2. Laptops, Phones, Cyborgs, Technology in the Classroom (The Tech Policy!)
 
 Given that this is a media course, it will often be necessary that we have access to laptops/internet-capable-technology for composing, viewing materials, and working in groups. The use of electronic devices will be permitted generously.
 
 I do request, however that your phone be put on silent and put away unless it is being used for class purposes. Otherwise, I ask that you generally honor the “3 second rule” (you may quickly check your phone, reply to a quick message and such, but then please return it to your pocket/desk/bag). If there is an emergency and you need to use your phone or be “on-call,” just let me know. Use of laptops in class should be focused on classroom materials and at appropriate times.
 
-#### Email
+#### 1.5.2.1. Email
 
 The best way to contact me is through Webcourses messaging. Please allow at least **24 hours** for an email response from me during the week (Monday through Thursday), and at least **48 hours** for an email response over the weekend (Friday-Sunday). It is a policy of the University of Central Florida that all students are required to have and maintain a Knight's email address. All students are required to provide the instructor with their Knight's email address and use this address for all class communication. No other email address will be recognized by the instructor for communications.
 
-#### Open Labs
+#### 1.5.2.2. Open Labs
 
 This course requires lab work utilizing specialized software and equipment. If you find yourself needing additional time to work on your assignments, SVAD has several labs available for students to work outside of class or lab hours. The lab schedule is available and will be distributed and is also on the individual lab room doors.  Open labs are available in the VAB building, OTC 500 bldg and the Student Union.
 
-### Academic Integrity
+### 1.5.2. Academic Integrity
 
 Students should familiarize themselves with UCF’s Rules of Conduct at <https://scai.sdes.ucf.edu/student-rules-of-conduct/>. According to Section 1, “Academic Misconduct,” students are prohibited from engaging in
 
@@ -232,7 +235,7 @@ Students should familiarize themselves with UCF’s Rules of Conduct at <https:/
 7. Helping another violate academic behavior standards.
 8. Soliciting assistance with academic coursework and/or degree requirements.
 
-#### Responses to Academic Dishonesty, Plagiarism, or Cheating
+#### 1.5.2.1. Responses to Academic Dishonesty, Plagiarism, or Cheating
 
 Students should also familiarize themselves with the procedures for academic misconduct in UCF’s student handbook, The Golden Rule <https://goldenrule.sdes.ucf.edu/>. UCF faculty members have a responsibility for students’ education and the value of a UCF degree, and so seek to prevent unethical behavior and respond to academic misconduct when necessary. Penalties for violating rules, policies, and instructions within this course can range from a zero on the exercise to an “F” letter grade in the course. In addition, an Academic Misconduct report could be filed with the Office of Student Conduct, which could lead to disciplinary warning, disciplinary probation, or deferred suspension or separation from the University through suspension, dismissal, or expulsion with the addition of a “Z” designation on one’s transcript.
 
@@ -240,27 +243,27 @@ Being found in violation of academic conduct standards could result in a student
 
 Let’s avoid all of this by demonstrating values of honesty, trust, and integrity. No grade is worth compromising your integrity and moving your moral compass. Stay true to doing the right thing: take the zero, not a shortcut.
 
-### Statement on Harassment and Discrimination
+### 1.5.2. Statement on Harassment and Discrimination
 
 I will not allow any form of harassment, or discrimination based on race, religion, gender identity, pronouns, sexual orientation, ability, etc. in any course assignments, discussions, or messages. If you or a classmate is experiencing harassment or discrimination in any form from another student or university employee, please reach out to me and I will provide any assistance that I can. For UCF’s policies on harassment and discrimination, see the Let's Be Clear website.
 
-### Land Acknowledgement
+### 1.5.3. Land Acknowledgement
 
 We acknowledge, with respect, that the land we are on today is the traditional and ancestral homelands of the Seminole, Miccosukee, Timucua, and numerous other Native tribes. We also acknowledge the manipulation, coercion, and violence enacted against these nations, including the Treaties of Moultrie Creek, Payne’s Landing, and Pensacola, which now afford us access to the land, water, and air of these Nations’ traditional homelands. We recognize the violent past and dire, ongoing costs to Native Nations and peoples on whose land this university -- now a place of learning and socialization -- was built upon. We recognize the Indigenous peoples as original stewards of this land and all the relatives within it.
 
 We understand that acknolwedgement is not enough and that we, as a course community, as a department, and as an institution, should actively work towards decolonization and the return of Native lands to Native peoples. This acknowledgement acts as a conversation starter, one that needs to be had in this country where so many Native lives have been lost to a inhospitable government and its people, and that only through action, and not just words in fancy statements, will we be able to truly honor the Native people and their land.
 
-### Course Accessibility Statement
+### 1.5.4. Course Accessibility Statement
 
 The University of Central Florida is committed to providing access and inclusion for all persons with disabilities. Students with disabilities who need access to course content due to course design limitations should contact the professor as soon as possible. Students should also connect with Student Accessibility Services (SAS) <http://sas.sdes.ucf.edu/> (Ferrell Commons 185, sas@ucf.edu, phone 407-823-2371). For students connected with SAS, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential course access and accommodations that might be necessary and reasonable. Determining reasonable access and accommodations requires consideration of the course design, course learning objectives and the individual academic and course barriers experienced by the student. Further conversation with SAS, faculty and the student may be warranted to ensure an accessible course experience.
 
-### Third-Party Software and FERPA
+### 1.5.5. Third-Party Software and FERPA
 
 During this course you might have the opportunity to use public online services and/or software applications sometimes called third-party software such as a blog or wiki. While some of these could be required assignments, you need not make any personally identifying information on a public site. Do not post or provide any private information about yourself or your classmates. Where appropriate you may use a pseudonym or nickname. Some written assignments posted publicly may require personal reflection/comments, but the assignments will not require you to disclose any personally identity-sensitive information. If you have any concerns about this, please contact your instructor.
 
 If you are a UCF Online student, please consult the UCF Online Student Guidelines for more information about your access to non-academic services.
 
-### Campus Safety Statement
+### 1.5.6. Campus Safety Statement
 
 Emergencies on campus are rare, but if one should arise during class, everyone needs to work together. Students should be aware of their surroundings and familiar with some basic safety and security concepts.
 
@@ -272,7 +275,7 @@ Students should know the evacuation routes from each of their classrooms and hav
 - Students with special needs related to emergency situations should speak with their instructors outside of class.
 - To learn about how to manage an active-shooter situation on campus or elsewhere, consider viewing this video (<https://youtu.be/NIKYajEx4pk>).
 
-#### Campus Safety Statement for Students in Online-Only Courses
+#### 1.5.6.1. Campus Safety Statement for Students in Online-Only Courses
 
 Though most emergency situations are primarily relevant to courses that meet in person, such incidents can also impact online students, either when they are on or near campus to participate in other courses or activities or when their course work is affected by off-campus emergencies. The following policies apply to courses in online modalities.
 
