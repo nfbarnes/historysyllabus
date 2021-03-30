@@ -73,7 +73,7 @@ This course develops a better understanding of artistic expression and creative 
 
 Many of the texts for this course will be provided for you through our course site. This will predominantly mean following links, but there will also be PDFs, games, videos, and other materials that you will be viewing.
 
-You will need *regular access to a computer or laptop* for this class. You will also need consistent internet access for readings, class materials, etc. If you have trouble getting ahold to any of these materials, or are unable to use a computer for an extended period of time for any reason, please feel free to reach out to me, and I can help get you connected with campus technology resources or work with you to develop an alternative. For some of these assignments, you will also need access to a *Neflix* account. This doesn't mean you need to purhcase *Neflix,* and I'll be happy to help coordinate collective viewing experiences for anyone having trouble getting access to the films needed.
+You will need *regular access to a computer or laptop* for this class. You will also need consistent internet access for readings, class materials, etc. If you have trouble getting ahold to any of these materials, or are unable to use a computer for an extended period of time for any reason, please feel free to reach out to me, and I can help get you connected with campus technology resources or work with you to develop an alternative. For some of these assignments, you will also need access to a *Netflix* account. This doesn't mean you need to purhcase *Neflix,* and I'll be happy to help coordinate collective viewing experiences for anyone having trouble getting access to the films needed.
 
 -----
 
